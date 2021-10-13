@@ -1,0 +1,27 @@
+#gameBoard {
+    background-color: rgb(179, 76, 76);
+    width: 250px;
+    height: 250px;
+    border: 2px solid black;
+  }
+
+  #gameCanvas{
+    width: 600px;
+    height: 600px;
+    background-color: rgb(12, 148, 23);
+    border: 2px solid black;
+  }
+  #testCanvas{
+    width: 500px;
+    height: 500px;
+    background-color: rgb(35, 141, 31);
+    border: 2px solid black;
+  }  
+  #testCanvas2{
+    width: 500px;
+    height: 500px;
+    background-color: rgb(97, 31, 141);
+    border: 2px solid black;
+  }
+
+  

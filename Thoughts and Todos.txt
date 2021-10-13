@@ -1,0 +1,5 @@
+I should do dijkstra for cleaning up route... Must be an edited variant for cordinates all with "edge-value" 1
+
+Clean up road testing when done
+
+Paint gameworld should only paint changes...
